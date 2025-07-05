@@ -26,13 +26,6 @@ The Real-Time Emotion Detector is a Python-based application that utilizes machi
 To start detecting emotions in real-time:
 python emotion_detector.py
 
-### Testing with an Image
-To classify the emotion from a static image:
-python image_emotion.py --image path/to/image.jpg
-
-## Deployment
-The model can be deployed as a web or desktop application using Flask, FastAPI, or Tkinter.
-
 ## Contributing
 Contributions are welcome! To contribute:
 1. Fork the repository.
